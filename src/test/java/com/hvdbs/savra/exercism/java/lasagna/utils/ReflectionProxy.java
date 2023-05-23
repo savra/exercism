@@ -1,4 +1,4 @@
-package com.hvdbs.savra.exercism.test.java.utils;
+package com.hvdbs.savra.exercism.java.lasagna.utils;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;

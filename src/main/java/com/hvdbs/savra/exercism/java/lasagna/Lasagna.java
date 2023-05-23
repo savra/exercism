@@ -1,4 +1,4 @@
-package com.hvdbs.savra.exercism.java.lasagna.main.java;
+package com.hvdbs.savra.exercism.java.lasagna;
 
 public class Lasagna {
     private static final int PREPARATION_TIME = 2;

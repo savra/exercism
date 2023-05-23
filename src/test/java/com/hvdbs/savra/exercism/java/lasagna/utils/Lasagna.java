@@ -1,4 +1,4 @@
-package com.hvdbs.savra.exercism.test.java.utils;
+package com.hvdbs.savra.exercism.java.lasagna.utils;
 
 public class Lasagna extends ReflectionProxy {
 

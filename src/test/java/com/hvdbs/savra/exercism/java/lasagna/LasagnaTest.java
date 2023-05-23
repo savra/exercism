@@ -1,7 +1,7 @@
-package com.hvdbs.savra.exercism.test.java;
+package com.hvdbs.savra.exercism.java.lasagna;
 
 
-import com.hvdbs.savra.exercism.test.java.utils.Lasagna;
+import com.hvdbs.savra.exercism.java.lasagna.utils.Lasagna;
 import org.junit.Test;
 
 import static org.assertj.core.api.Assertions.assertThat;
