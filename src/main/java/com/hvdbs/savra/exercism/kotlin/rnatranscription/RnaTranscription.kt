@@ -4,7 +4,8 @@ fun transcribeToRna(dna: String): String = dna.splitToSequence("").map { s: Stri
         "C" -> "G"
         "T" -> "A"
         "A" -> "U"
-        else -> { ""
+        else -> {
+            ""
         }
     }
 }.joinToString("")
